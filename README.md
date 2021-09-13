@@ -1,6 +1,6 @@
 # Fairness and Robustness in Invariant Learning: A Case Study in Toxicity classification
 
-This code accompanies the paper [Fairness and Robustness in Invariant Learning: A Case Study in Toxicity Classification](https://arxiv.org/abs/2011.06485), which was featured in a spotlight talk at the 2020 Neurips Workshop on Algorithmic Fairness through the Lens of Causality and Interpretability(https://www.afciworkshop.org/afci-2020/home). 
+This code accompanies the paper [Fairness and Robustness in Invariant Learning: A Case Study in Toxicity Classification](https://arxiv.org/abs/2011.06485), which was featured in a spotlight talk at the [2020 Neurips Workshop on Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/afci-2020/home). 
 
 Thanks to my incredible co-authors [Elliot Creager](https://github.com/ecreager/), [David Madras](https://github.com/dmadras) and [Rich Zemel](https://www.cs.toronto.edu/~zemel/inquiry/home.php). 
 
